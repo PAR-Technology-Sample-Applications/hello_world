@@ -1,3 +1,3 @@
-# jgodse-test
-jgodse-test
-Jay was here
+# Hello World
+
+This application is a "Hello World" application written in Python. 
